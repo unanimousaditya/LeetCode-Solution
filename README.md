@@ -54,8 +54,7 @@ the repository and modify it as needed!
 ## License
 
 Licensed under the MIT License, Copyright © 2019-2025
-[P.-Y. Chen](https://github.com/walkccc).
 
 <div align="center">
-  <sub>Assembled with ❤️ in New York.</sub>
+  <sub>Assembled with Love.</sub>
 </div>
