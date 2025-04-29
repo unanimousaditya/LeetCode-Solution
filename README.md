@@ -56,5 +56,5 @@ the repository and modify it as needed!
 Licensed under the MIT License, Copyright © 2019-2025
 
 <div align="center">
-  <sub>Assembled with Love.</sub>
+  <sub>Assembled with Love @unanimousaditya </sub>
 </div>
