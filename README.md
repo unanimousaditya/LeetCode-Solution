@@ -55,6 +55,8 @@ the repository and modify it as needed!
 
 Licensed under the MIT License, Copyright © 2019-2025
 
+## Credits
+
 <div align="center">
   Assembled with 💗 by [@unanimousaditya](https://github.com/unanimousaditya)@unanimousaditya
 </div>
